@@ -50,8 +50,7 @@ SESSION_COOKIE_SAMESITE = 'Lax'
 SESSION_COOKIE_SECURE = False  # Set to True in production
 SESSION_COOKIE_HTTPONLY = True
 # Application definition
-STABILITY_API_KEY = "sk-in8UCCsgZP40XB4flImLX3G4iTPhkoTvhfg05nQkhmtWVufJ"
-OPEN_AI_API_KEY = "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"
+OPEN_AI_API_KEY = "add-key"
 
 INSTALLED_APPS = [
     'django.contrib.admin',
